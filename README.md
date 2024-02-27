@@ -6,6 +6,6 @@ WaveMaker is a Java-based low-code development platform designed for building so
 
 This repository contains bullet notes created while learning WaveMaker.
 
-Feel free to explore the contents and use the notes as a reference while working with WaveMaker.
+Feel free to explore the bullet notes
 
 
