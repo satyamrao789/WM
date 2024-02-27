@@ -12,9 +12,9 @@ If widgets don't cover our usecase, we can always build our own component called
 Creating an Employee Profile application
 
 Employee profile -----HR_API(Swagger)(REST API) - created HR_API app for this
-				 -----GMaps API(REST API)
-				 -----Countries_API(SOAP API)
-				 -----HeartRate_API(Web Socket) 
+		 -----GMaps API(REST API)
+		 -----Countries_API(SOAP API)
+		 -----HeartRate_API(Web Socket) 
 
 Uploaded a data dump for HR_API
 WM automatically generates default CRUD apis for it in API section with same name.
@@ -53,8 +53,8 @@ Started building images\9_final_app
 2. used container(grid layout) to design in center.
 3. Now creating variable(gave name as swgGetEmployees) to bind data
 4. Variable can be ---- Database CRUD
-				   ---- APIs(Imported APIs, Database APIS, Web Service, Java Service, Security Service)
-				   ---- Model
+		   ---- APIs(Imported APIs, Database APIS, Web Service, Java Service, Security Service)
+		   ---- Model
 5. Selected Imported APIs(HR_API)
 6. Used List widget inside grid layout 
 7. Selected Retrieve data from Existing varibale(swgGetEmployees)
